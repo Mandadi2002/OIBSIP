@@ -1,7 +1,5 @@
 # Login Authentication Project
 
-![image alt](https://github.com/Mandadi2002/OIBSIP/blob/4a0b9e72b15c459cf644c7e0c94978e53f027529/Level-2/Task-4%20Login%20Authentication/Screenshot%202025-03-30%20084636.png)
-
 ## Introduction
 This project is a basic login authentication system developed using HTML, CSS, and JavaScript. The system allows users to enter a username and password and then validates the credentials.
 
