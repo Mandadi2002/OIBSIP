@@ -1,5 +1,7 @@
 # Tribute Page Project
 
+![image alt](https://github.com/Mandadi2002/OIBSIP/blob/20990bb5f8119ea3f9a76c6ec2a3c20362e8fe52/Level-2/Task-2%20Tribute%20Page/Screenshot%202025-03-30%20083846.png)
+
 ## Introduction
 This project is a tribute page dedicated to Ratan Tata,an Indian businessman who became chairman of the Tata Group in  (1991–2012 and 2016–17), a Mumbai-based conglomerate. He was widely admired not only for his stewardship of one of the country’s largest conglomerates but also for his personal ethics and philanthropic activities.
 
