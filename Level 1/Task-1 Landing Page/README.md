@@ -1,5 +1,7 @@
 # Landing Page Project Report
 
+![image alt](https://github.com/Mandadi2002/OIBSIP/blob/fd02b322a5329602d6ee5b42db97e77d1fe686bc/Level%201/Task-1%20Landing%20Page/Screenshot%202025-03-30%20084937.png)
+
 ## Introduction
 This report outlines the creation and features of a landing page developed using HTML, CSS, and JavaScript. The landing page is designed to showcase a product or service with a modern, responsive design.
 
