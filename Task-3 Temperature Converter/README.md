@@ -1,5 +1,7 @@
 # Temperature Converter Project
 
+![image alt](https://github.com/Mandadi2002/OIBSIP/blob/8530a188b5b3dde22ec3da41a783b64471373a74/Task-3%20Temperature%20Converter/Screenshot%202025-03-30%20084433-min.png)
+
 ## Introduction
 The user will input a temperature in either Fahrenheit or Celsius and press a "convert" button. The converted temperature will then be displayed with the correct unit.
 
