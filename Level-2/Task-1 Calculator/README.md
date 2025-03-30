@@ -1,5 +1,7 @@
 # Calculator Project
 
+![image alt](https://github.com/Mandadi2002/OIBSIP/blob/7625d265fa0b677bab4f5cc2b7a11c61b749a660/Level-2/Task-1%20Calculator/Screenshot%202025-03-30%20091503.png)
+
 ## Introduction
 This project is a simple and interactive calculator developed using HTML, CSS, and JavaScript. The calculator allows users to perform basic arithmetic operations (addition, subtraction, multiplication, and division) with a responsive and clean interface.
 
